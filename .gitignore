@@ -34,3 +34,4 @@ node-nim-cache0
 docker/*.zip
 docker/48tools-**/*
 docker/48tools/**/*
+config.bat
